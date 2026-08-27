@@ -85,7 +85,7 @@ Training requires one `{pair\_id}\_label.json` file per complex. Contact indices
 
 ```json
 {
-  "contacts": \[
+  "contacts": \\\[
     {"r\_idx": 1, "p\_idx": 1}
   ]
 }
